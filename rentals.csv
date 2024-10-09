@@ -1,0 +1,1001 @@
+"property_id","type","city","rental_price","bedrooms","bathrooms","available_date","pet_friendly"
+547,"chalet","Giza","567.69",4,1,"2022-07-18",True
+1,"chalet","Sharm al-Sheikh","2460.95",4,2,"2022-03-14",False
+2,"chalet","Giza","1413.99",3,1,"2022-03-31",True
+3,"apartment","Sharm al-Sheikh","3412.07",5,1,"2022-03-17",True
+4,"villa","Alexandria","2721.74",2,3,"2022-06-09",True
+5,"villa","Sharm al-Sheikh","2788.95",3,2,"2022-12-05",False
+6,"apartment","Giza","4473.43",5,2,"2022-07-27",False
+7,"villa","Cairo","2713.07",2,1,"2022-11-15",False
+8,"chalet","Sharm al-Sheikh","871.34",5,1,"2022-06-14",False
+9,"apartment","Ain Sokhna","2721.97",5,1,"2022-05-03",False
+10,"apartment","Sharm al-Sheikh","1445.64",5,1,"2022-05-11",False
+11,"chalet","Alexandria","4319.14",2,2,"2022-10-10",True
+12,"apartment","Ain Sokhna","713.93",2,1,"2022-05-17",False
+13,"chalet","Marsa Matrouh","2916.07",2,2,"2022-01-23",False
+14,"chalet","Giza","1412.62",2,1,"2022-12-20",False
+15,"apartment","Marsa Matrouh","1672.48",2,3,"2022-01-29",True
+16,"villa","Sharm al-Sheikh","4536.66",1,3,"2022-11-18",False
+17,"apartment","Ain Sokhna","2723.25",4,3,"2022-04-25",True
+18,"villa","Giza","666.78",5,1,"2022-11-14",True
+19,"chalet","Sharm al-Sheikh","4019.94",4,1,"2022-06-23",False
+20,"apartment","Cairo","3778.92",2,2,"2022-03-31",False
+21,"villa","Cairo","548.76",2,1,"2022-02-05",True
+22,"chalet","Cairo","4239.9",1,2,"2022-09-05",True
+23,"apartment","Alexandria","528.69",4,1,"2022-07-20",True
+24,"chalet","Alexandria","2773.95",5,1,"2022-08-28",False
+25,"villa","Sharm al-Sheikh","3268.86",3,3,"2022-01-14",True
+26,"apartment","Sharm al-Sheikh","2400.97",5,2,"2022-03-24",False
+27,"chalet","Alexandria","2854.69",3,3,"2022-12-25",False
+28,"chalet","Sharm al-Sheikh","2269.7",3,1,"2022-02-28",True
+29,"apartment","Ain Sokhna","3883.91",4,2,"2022-03-16",False
+30,"apartment","Giza","1963.15",4,1,"2022-05-30",False
+31,"villa","Cairo","2721.17",4,1,"2022-04-28",False
+32,"villa","Cairo","1954.9",4,2,"2022-07-18",True
+33,"villa","Ain Sokhna","4473.24",4,1,"2022-08-08",True
+34,"apartment","Marsa Matrouh","1237.45",4,3,"2022-05-19",True
+35,"villa","Marsa Matrouh","3571.26",3,1,"2022-09-18",True
+36,"chalet","Sharm al-Sheikh","1243.97",5,1,"2022-09-20",False
+37,"villa","Sharm al-Sheikh","601.47",2,2,"2022-04-10",True
+38,"apartment","Alexandria","2504.7",4,3,"2022-11-23",False
+39,"apartment","Sharm al-Sheikh","2595.84",2,1,"2022-09-09",True
+40,"apartment","Cairo","2223.5",2,1,"2022-05-22",True
+41,"apartment","Alexandria","3721.29",5,1,"2022-08-31",True
+42,"villa","Ain Sokhna","516.43",3,1,"2022-09-16",True
+43,"apartment","Marsa Matrouh","4687.14",1,3,"2022-10-06",True
+44,"villa","Cairo","4584.66",1,2,"2022-05-13",False
+45,"apartment","Giza","1645.85",3,3,"2022-05-14",True
+46,"chalet","Sharm al-Sheikh","4716.81",5,1,"2022-04-03",False
+47,"apartment","Marsa Matrouh","2982.76",5,1,"2022-09-09",False
+48,"chalet","Marsa Matrouh","3777.83",5,1,"2022-04-24",True
+49,"chalet","Alexandria","4804.81",5,2,"2022-09-29",True
+50,"chalet","Ain Sokhna","4338.09",3,2,"2022-11-06",False
+51,"chalet","Alexandria","3534.13",1,3,"2022-07-31",False
+52,"chalet","Alexandria","1350.08",2,3,"2022-05-09",True
+53,"chalet","Alexandria","4742.02",5,2,"2022-12-06",False
+54,"chalet","Giza","868.13",2,3,"2022-03-14",True
+55,"apartment","Marsa Matrouh","1949.96",1,2,"2022-01-18",False
+56,"chalet","Alexandria","1608.59",1,1,"2022-05-11",False
+57,"chalet","Cairo","806.96",3,1,"2022-09-27",True
+58,"villa","Ain Sokhna","2694.54",4,3,"2022-08-13",True
+59,"chalet","Giza","1217.17",5,3,"2022-05-12",True
+60,"apartment","Giza","2814.75",4,1,"2022-03-20",True
+61,"villa","Marsa Matrouh","868.27",5,1,"2022-09-16",True
+62,"chalet","Cairo","4244.6",4,3,"2022-08-23",False
+63,"villa","Giza","2750.14",1,2,"2022-09-26",False
+64,"villa","Marsa Matrouh","1900.88",5,1,"2022-09-22",True
+65,"villa","Ain Sokhna","3203.09",1,3,"2022-01-03",True
+66,"villa","Cairo","4813.23",1,2,"2022-09-30",True
+67,"chalet","Alexandria","3782.74",3,2,"2022-06-05",True
+68,"apartment","Marsa Matrouh","2636.69",1,2,"2022-12-03",True
+69,"chalet","Alexandria","4775.54",1,3,"2022-07-30",False
+70,"villa","Cairo","2389.19",3,2,"2022-08-18",False
+71,"apartment","Ain Sokhna","2256.71",4,3,"2022-12-17",True
+72,"apartment","Sharm al-Sheikh","4438.63",1,3,"2022-03-02",False
+73,"chalet","Ain Sokhna","943.82",2,2,"2022-01-09",False
+74,"villa","Alexandria","802.57",4,1,"2022-07-04",True
+75,"chalet","Giza","1325.85",5,1,"2022-05-17",False
+76,"villa","Sharm al-Sheikh","717.83",3,3,"2022-06-04",True
+77,"villa","Marsa Matrouh","2760.52",2,2,"2022-10-22",True
+78,"apartment","Cairo","3249.69",1,2,"2022-09-18",True
+79,"apartment","Cairo","2908.23",1,1,"2022-10-26",False
+80,"chalet","Sharm al-Sheikh","1627.76",5,1,"2022-02-26",False
+81,"apartment","Cairo","933.52",2,1,"2022-07-06",False
+82,"villa","Ain Sokhna","2021.55",1,2,"2022-11-27",True
+83,"apartment","Giza","1621.37",5,1,"2022-05-11",True
+84,"apartment","Giza","1873.13",4,1,"2022-12-29",True
+85,"apartment","Marsa Matrouh","3860.52",4,1,"2022-01-15",True
+86,"chalet","Sharm al-Sheikh","3239.77",5,1,"2022-08-04",False
+87,"chalet","Giza","4295.22",2,3,"2022-03-29",True
+88,"chalet","Ain Sokhna","2131.5",2,1,"2022-04-27",True
+89,"apartment","Alexandria","3545.69",5,2,"2022-07-14",True
+90,"villa","Giza","2138.28",3,3,"2022-04-28",True
+91,"villa","Ain Sokhna","912.03",1,1,"2022-02-01",True
+92,"chalet","Ain Sokhna","732.15",2,2,"2022-09-14",False
+93,"apartment","Cairo","1291.87",4,1,"2022-07-29",False
+94,"villa","Giza","1191.59",5,3,"2022-06-19",True
+95,"apartment","Marsa Matrouh","1219.66",2,1,"2022-07-03",False
+96,"chalet","Cairo","4796.09",5,3,"2022-10-28",False
+97,"apartment","Giza","2246.63",4,1,"2022-06-26",False
+98,"apartment","Sharm al-Sheikh","4549.03",5,3,"2022-12-23",False
+99,"apartment","Cairo","2511.62",5,1,"2022-02-04",True
+100,"chalet","Sharm al-Sheikh","1021.8",3,1,"2022-01-30",True
+101,"apartment","Giza","3466.12",1,2,"2022-06-14",True
+102,"villa","Ain Sokhna","4467.13",5,1,"2022-10-17",True
+103,"chalet","Sharm al-Sheikh","2565.54",5,1,"2022-06-13",False
+104,"villa","Marsa Matrouh","3451.24",5,1,"2022-01-27",True
+105,"villa","Giza","2460.98",2,2,"2022-11-11",False
+106,"apartment","Marsa Matrouh","3541.97",4,2,"2022-10-25",True
+107,"apartment","Marsa Matrouh","823.35",1,1,"2022-11-01",False
+108,"apartment","Cairo","3704.69",3,1,"2022-03-04",True
+109,"apartment","Cairo","2460.56",1,1,"2022-09-21",True
+110,"apartment","Cairo","1014.29",5,1,"2022-01-22",False
+111,"chalet","Ain Sokhna","3960.03",2,2,"2022-12-28",True
+112,"villa","Sharm al-Sheikh","2918.44",5,3,"2022-04-11",True
+113,"apartment","Giza","4527.32",4,1,"2022-03-02",True
+114,"chalet","Marsa Matrouh","1178.53",5,1,"2022-05-17",True
+115,"villa","Alexandria","4575.04",2,2,"2022-06-23",False
+116,"villa","Cairo","1667.28",5,1,"2022-11-16",True
+117,"villa","Marsa Matrouh","3837.07",1,2,"2022-12-15",True
+118,"chalet","Giza","840.7",2,1,"2022-09-29",False
+119,"villa","Marsa Matrouh","511.25",2,1,"2022-01-21",False
+120,"apartment","Ain Sokhna","1120.09",2,3,"2022-03-21",False
+121,"villa","Cairo","2795.39",5,2,"2022-04-23",False
+122,"apartment","Marsa Matrouh","4811.47",5,2,"2022-03-28",True
+123,"villa","Ain Sokhna","3482.26",1,1,"2022-07-28",True
+124,"apartment","Cairo","3441.38",4,2,"2022-06-12",False
+125,"apartment","Cairo","2854.25",2,1,"2022-11-24",True
+126,"apartment","Marsa Matrouh","4201.16",1,1,"2022-09-19",False
+127,"chalet","Giza","4651.44",5,3,"2022-08-20",False
+128,"villa","Ain Sokhna","3239.9",5,1,"2022-07-25",False
+129,"villa","Giza","540.14",1,3,"2022-06-16",False
+130,"villa","Cairo","3450.65",3,1,"2022-05-16",False
+131,"chalet","Ain Sokhna","2117.09",5,2,"2022-07-29",True
+132,"apartment","Giza","3127.8",4,2,"2022-07-20",False
+133,"villa","Ain Sokhna","898.77",5,1,"2022-09-22",False
+134,"apartment","Cairo","3597.15",5,3,"2022-12-25",False
+135,"chalet","Sharm al-Sheikh","3356.4",3,2,"2022-09-07",True
+136,"apartment","Cairo","4332.07",5,1,"2022-09-09",False
+137,"chalet","Ain Sokhna","2325.52",3,1,"2022-03-01",False
+138,"apartment","Ain Sokhna","3287.2",4,3,"2022-01-08",True
+139,"apartment","Cairo","2571.34",2,1,"2022-10-18",False
+140,"apartment","Alexandria","3820.96",2,3,"2022-10-04",False
+141,"chalet","Giza","3533.78",3,1,"2022-10-26",True
+142,"chalet","Marsa Matrouh","728.68",4,2,"2022-04-13",False
+143,"apartment","Cairo","1353.01",2,2,"2022-10-23",False
+144,"villa","Giza","2833.77",5,2,"2022-01-19",False
+145,"chalet","Giza","3460.12",5,1,"2022-03-13",True
+146,"chalet","Cairo","4969.47",1,1,"2022-11-23",True
+147,"chalet","Alexandria","4030.27",2,1,"2022-04-01",True
+148,"villa","Ain Sokhna","1067.97",4,3,"2022-03-15",True
+149,"apartment","Giza","3369.58",5,1,"2022-10-19",True
+150,"villa","Sharm al-Sheikh","858.74",3,1,"2022-08-04",True
+151,"villa","Alexandria","2425.93",1,3,"2022-11-08",True
+152,"villa","Cairo","1938.2",2,3,"2022-09-10",False
+153,"chalet","Giza","2652.69",4,2,"2022-09-30",True
+154,"chalet","Cairo","2822.48",5,2,"2022-05-18",True
+155,"chalet","Cairo","1690.53",3,3,"2022-10-10",False
+156,"chalet","Marsa Matrouh","1635.22",4,2,"2022-08-30",True
+157,"chalet","Cairo","2049.69",3,1,"2022-12-06",True
+158,"villa","Marsa Matrouh","3099.31",1,2,"2022-10-06",True
+159,"chalet","Cairo","3457.47",3,3,"2022-02-23",True
+160,"apartment","Cairo","4714.33",4,2,"2022-09-03",True
+161,"villa","Ain Sokhna","1982.47",5,3,"2022-07-18",False
+162,"apartment","Marsa Matrouh","2843.58",2,2,"2022-06-22",True
+163,"chalet","Sharm al-Sheikh","4450.99",5,1,"2022-12-23",True
+164,"chalet","Giza","1503.19",3,2,"2022-07-01",False
+165,"villa","Marsa Matrouh","1919.07",5,2,"2022-07-29",False
+166,"chalet","Sharm al-Sheikh","3424.35",4,2,"2022-05-28",True
+167,"apartment","Ain Sokhna","3113.21",4,2,"2022-03-11",False
+168,"villa","Alexandria","4432.83",1,1,"2022-07-20",True
+169,"apartment","Marsa Matrouh","4722.2",4,1,"2022-10-29",False
+170,"chalet","Ain Sokhna","1494.27",1,2,"2022-06-21",False
+171,"chalet","Cairo","4101.3",3,3,"2022-01-01",True
+172,"villa","Marsa Matrouh","650.22",5,1,"2022-08-07",False
+173,"chalet","Alexandria","2092.7",1,3,"2022-07-26",True
+174,"chalet","Giza","4916.21",2,3,"2022-02-13",True
+175,"chalet","Sharm al-Sheikh","3523.48",5,2,"2022-06-20",False
+176,"villa","Cairo","688.85",1,2,"2022-06-04",True
+177,"villa","Marsa Matrouh","4842.42",4,1,"2022-08-19",True
+178,"apartment","Sharm al-Sheikh","1528.09",4,1,"2022-03-25",True
+179,"chalet","Alexandria","655.24",5,1,"2022-03-17",False
+180,"villa","Cairo","3969.24",1,1,"2022-03-08",False
+181,"chalet","Sharm al-Sheikh","2338.68",1,1,"2022-12-11",True
+182,"villa","Giza","2183.63",4,2,"2022-11-14",True
+183,"villa","Alexandria","840.48",2,3,"2022-02-02",False
+184,"villa","Cairo","4971.94",1,2,"2022-05-06",False
+185,"apartment","Sharm al-Sheikh","4849.47",5,3,"2022-03-03",True
+186,"apartment","Sharm al-Sheikh","969.53",1,2,"2022-09-21",False
+187,"apartment","Giza","3330.73",2,1,"2022-08-11",False
+188,"chalet","Ain Sokhna","3332.84",2,2,"2022-06-02",False
+189,"chalet","Marsa Matrouh","2074.9",5,3,"2022-02-21",False
+190,"chalet","Ain Sokhna","3674.01",2,2,"2022-02-16",True
+191,"apartment","Cairo","1736",3,3,"2022-01-08",True
+192,"apartment","Alexandria","2800.99",3,3,"2022-05-24",False
+193,"villa","Marsa Matrouh","3657.33",4,1,"2022-05-19",True
+194,"villa","Sharm al-Sheikh","2499.87",4,2,"2022-09-02",True
+195,"villa","Cairo","2652.48",4,1,"2022-04-10",True
+196,"villa","Cairo","2436.42",5,3,"2022-07-21",True
+197,"apartment","Marsa Matrouh","3885.93",2,1,"2022-03-04",True
+198,"villa","Alexandria","3238.02",2,1,"2022-07-11",True
+199,"apartment","Cairo","2456.8",4,3,"2022-09-04",False
+200,"villa","Marsa Matrouh","4099.78",1,3,"2022-05-01",True
+201,"chalet","Cairo","3483.07",5,2,"2022-11-19",True
+202,"apartment","Giza","4350.85",1,1,"2022-08-23",True
+203,"chalet","Marsa Matrouh","2029.59",4,3,"2022-11-30",False
+204,"villa","Giza","4589.44",2,3,"2022-08-30",False
+205,"chalet","Alexandria","3639.13",2,2,"2022-04-07",False
+206,"chalet","Marsa Matrouh","678.46",5,2,"2022-12-16",False
+207,"villa","Sharm al-Sheikh","2555.23",5,2,"2022-10-07",False
+208,"chalet","Marsa Matrouh","1312.55",3,1,"2022-01-30",False
+209,"apartment","Ain Sokhna","4095.23",2,3,"2022-12-23",False
+210,"villa","Marsa Matrouh","4626.8",4,3,"2022-10-14",True
+211,"villa","Giza","3906.84",3,1,"2022-10-22",True
+212,"apartment","Marsa Matrouh","3449.2",4,2,"2022-12-18",False
+213,"villa","Marsa Matrouh","1093.53",1,2,"2022-05-09",True
+214,"chalet","Giza","974.91",4,1,"2022-08-29",True
+215,"chalet","Cairo","1692.4",3,3,"2022-09-08",True
+216,"villa","Sharm al-Sheikh","3391.01",5,1,"2022-10-21",False
+217,"villa","Giza","4395.34",2,1,"2022-01-09",False
+218,"apartment","Cairo","3024.17",4,1,"2022-05-28",True
+219,"apartment","Sharm al-Sheikh","1632.81",4,1,"2022-09-22",False
+220,"apartment","Sharm al-Sheikh","1713.71",1,2,"2022-03-08",False
+221,"chalet","Sharm al-Sheikh","2141.36",1,2,"2022-02-12",False
+222,"apartment","Alexandria","3866.45",3,3,"2022-08-29",True
+223,"chalet","Cairo","1029.8",2,3,"2022-07-09",True
+224,"chalet","Ain Sokhna","2641.74",2,2,"2022-01-06",True
+225,"apartment","Sharm al-Sheikh","3167.85",4,2,"2022-01-26",False
+226,"chalet","Alexandria","922.29",3,3,"2022-06-22",False
+227,"chalet","Alexandria","4668.93",2,2,"2022-01-07",True
+228,"apartment","Alexandria","2301.18",1,3,"2022-01-05",True
+229,"apartment","Ain Sokhna","3207.71",3,3,"2022-03-21",False
+230,"apartment","Ain Sokhna","3106.72",4,1,"2022-02-05",True
+231,"chalet","Sharm al-Sheikh","3253.82",4,3,"2022-11-26",False
+232,"chalet","Alexandria","2519.88",1,3,"2022-08-03",True
+233,"villa","Ain Sokhna","3889.83",3,3,"2022-02-19",False
+234,"apartment","Alexandria","4854.01",4,3,"2022-01-10",False
+235,"apartment","Ain Sokhna","2571.49",5,3,"2022-09-04",False
+236,"chalet","Alexandria","4526.54",4,3,"2022-01-10",False
+237,"villa","Giza","1813.74",2,3,"2022-10-16",True
+238,"villa","Giza","4391.07",3,3,"2022-05-03",False
+239,"villa","Marsa Matrouh","2633.37",3,1,"2022-09-26",False
+240,"apartment","Giza","1450.2",5,2,"2022-03-07",False
+241,"villa","Giza","2682.59",1,2,"2022-05-10",True
+242,"chalet","Alexandria","3519.34",5,2,"2022-01-09",False
+243,"apartment","Giza","959",5,3,"2022-12-01",False
+244,"chalet","Alexandria","2242.8",3,1,"2022-07-28",True
+245,"apartment","Sharm al-Sheikh","2307.65",4,2,"2022-01-28",True
+246,"chalet","Marsa Matrouh","3636.04",5,2,"2022-01-09",True
+247,"chalet","Cairo","2251.85",2,2,"2022-11-11",False
+248,"apartment","Marsa Matrouh","4277.45",2,1,"2022-04-10",False
+249,"villa","Cairo","1934.08",5,3,"2022-09-10",False
+250,"chalet","Alexandria","2617.13",2,2,"2022-01-19",False
+251,"chalet","Giza","934.99",3,1,"2022-01-07",False
+252,"apartment","Giza","1941.86",2,1,"2022-02-19",False
+253,"apartment","Ain Sokhna","1350.65",5,2,"2022-03-24",True
+254,"chalet","Alexandria","2302.35",3,3,"2022-08-18",False
+255,"apartment","Sharm al-Sheikh","2079.57",3,3,"2022-03-16",False
+256,"villa","Ain Sokhna","3424.69",5,1,"2022-07-12",False
+257,"chalet","Alexandria","1341.35",4,2,"2022-04-16",False
+258,"villa","Marsa Matrouh","2455.02",5,2,"2022-10-24",False
+259,"apartment","Marsa Matrouh","4798.98",2,3,"2022-10-24",True
+260,"chalet","Marsa Matrouh","4381.76",4,2,"2022-12-24",False
+261,"villa","Giza","4742.36",2,2,"2022-12-18",True
+262,"chalet","Cairo","4730.38",2,3,"2022-01-11",False
+263,"villa","Giza","3859.62",3,1,"2022-06-28",False
+264,"apartment","Ain Sokhna","1475.96",1,1,"2022-06-18",True
+265,"villa","Ain Sokhna","4674.22",3,2,"2022-03-03",True
+266,"apartment","Ain Sokhna","4159.15",1,1,"2022-04-19",True
+267,"villa","Giza","793.93",1,2,"2022-07-02",False
+268,"chalet","Alexandria","4741.51",4,1,"2022-02-25",False
+269,"villa","Sharm al-Sheikh","1816.25",1,3,"2022-09-14",False
+270,"apartment","Giza","4409.14",1,2,"2022-01-26",True
+271,"chalet","Sharm al-Sheikh","633.88",5,2,"2022-10-15",False
+272,"chalet","Alexandria","3113.79",1,1,"2022-08-14",False
+273,"apartment","Cairo","1371.16",5,1,"2022-03-22",False
+274,"apartment","Giza","4516.18",2,3,"2022-04-01",False
+275,"chalet","Marsa Matrouh","3332.2",4,2,"2022-01-22",True
+276,"villa","Cairo","3308.34",3,3,"2022-12-30",False
+277,"apartment","Marsa Matrouh","1359.77",4,1,"2022-08-15",True
+278,"villa","Sharm al-Sheikh","1269.15",2,1,"2022-08-26",True
+279,"apartment","Marsa Matrouh","1852.44",1,2,"2022-02-19",False
+280,"chalet","Alexandria","1954.89",5,1,"2022-09-03",False
+281,"chalet","Sharm al-Sheikh","1359.67",2,1,"2022-06-17",True
+282,"villa","Ain Sokhna","682.93",4,1,"2022-09-30",False
+283,"apartment","Cairo","1219.24",1,3,"2022-03-09",False
+284,"chalet","Ain Sokhna","2660.58",5,2,"2022-09-17",True
+285,"apartment","Marsa Matrouh","1840.05",2,1,"2022-11-23",False
+286,"chalet","Ain Sokhna","4653.02",4,1,"2022-03-22",True
+287,"chalet","Giza","792.63",3,3,"2022-08-07",False
+288,"villa","Ain Sokhna","1306.9",4,1,"2022-05-14",True
+289,"apartment","Giza","2583.76",2,1,"2022-05-23",False
+290,"villa","Cairo","4431.24",2,3,"2022-12-02",True
+291,"villa","Giza","2148.75",5,1,"2022-12-16",False
+292,"apartment","Cairo","1046.73",4,3,"2022-07-01",True
+293,"villa","Marsa Matrouh","2658.11",3,1,"2022-10-31",True
+294,"chalet","Marsa Matrouh","1776.02",1,3,"2022-01-14",False
+295,"apartment","Sharm al-Sheikh","1057.62",2,1,"2022-12-04",False
+296,"villa","Ain Sokhna","3514.12",5,1,"2022-08-08",False
+297,"villa","Marsa Matrouh","2285.49",5,2,"2022-07-01",False
+298,"apartment","Sharm al-Sheikh","4464.73",4,3,"2022-10-31",True
+299,"chalet","Giza","2657.91",3,3,"2022-04-02",True
+300,"apartment","Marsa Matrouh","4636.61",2,1,"2022-10-15",False
+301,"chalet","Giza","4581.88",4,2,"2022-09-24",False
+302,"apartment","Sharm al-Sheikh","3669.74",5,1,"2022-08-23",True
+303,"apartment","Giza","974.15",4,2,"2022-08-16",False
+304,"chalet","Cairo","701.28",2,2,"2022-09-19",False
+305,"apartment","Cairo","4426.54",3,2,"2022-10-30",True
+306,"apartment","Alexandria","2222",2,2,"2022-01-08",True
+307,"chalet","Giza","3088.35",4,2,"2022-10-03",False
+308,"apartment","Cairo","1024.67",5,2,"2022-02-25",True
+309,"chalet","Giza","4898.7",1,1,"2022-12-08",False
+310,"apartment","Giza","1981.57",1,3,"2022-02-14",True
+311,"villa","Giza","4731.49",5,1,"2022-04-21",True
+312,"apartment","Marsa Matrouh","1832.21",3,1,"2022-07-10",False
+313,"apartment","Ain Sokhna","2253.49",4,1,"2022-06-08",True
+314,"apartment","Giza","1758.31",3,2,"2022-03-11",False
+315,"apartment","Alexandria","3634.25",3,1,"2022-06-20",False
+316,"apartment","Marsa Matrouh","4271.31",3,2,"2022-11-19",False
+317,"apartment","Marsa Matrouh","2740.27",1,2,"2022-08-27",False
+318,"apartment","Cairo","2692.77",5,3,"2022-07-30",True
+319,"apartment","Alexandria","2166.93",5,3,"2022-10-28",False
+320,"villa","Marsa Matrouh","1584.28",3,3,"2022-05-25",False
+321,"apartment","Cairo","3392.53",4,2,"2022-08-08",True
+322,"chalet","Marsa Matrouh","3523.43",3,2,"2022-01-26",False
+323,"apartment","Cairo","1744.56",1,2,"2022-06-26",False
+324,"villa","Ain Sokhna","1520.76",3,1,"2022-05-29",False
+325,"chalet","Sharm al-Sheikh","4294.56",1,2,"2022-08-27",False
+326,"chalet","Ain Sokhna","777.84",4,1,"2022-10-13",True
+327,"villa","Sharm al-Sheikh","4806.95",4,3,"2022-09-20",True
+328,"chalet","Ain Sokhna","4941.36",2,3,"2022-07-01",False
+329,"apartment","Ain Sokhna","2884.89",5,2,"2022-10-24",False
+330,"villa","Cairo","3284.64",1,3,"2022-11-24",False
+331,"chalet","Sharm al-Sheikh","2095.86",5,1,"2022-04-09",False
+332,"apartment","Sharm al-Sheikh","3263.02",2,2,"2022-11-30",True
+333,"apartment","Alexandria","656.26",1,1,"2022-07-14",True
+334,"chalet","Giza","3466.04",2,2,"2022-11-28",False
+335,"chalet","Giza","3111.32",1,2,"2022-10-14",False
+336,"chalet","Cairo","1015.89",2,2,"2022-07-27",True
+337,"chalet","Sharm al-Sheikh","1710.08",3,1,"2022-01-17",True
+338,"villa","Alexandria","2396.2",2,1,"2022-06-13",True
+339,"apartment","Sharm al-Sheikh","1760.71",3,2,"2022-01-20",True
+340,"apartment","Ain Sokhna","1088.08",2,3,"2022-09-08",True
+341,"chalet","Alexandria","1884.15",1,1,"2022-11-09",False
+342,"villa","Sharm al-Sheikh","4308.41",5,1,"2022-01-11",True
+343,"chalet","Cairo","1694.46",4,2,"2022-03-18",True
+344,"apartment","Alexandria","4086.21",4,1,"2022-07-06",True
+345,"villa","Alexandria","1622.64",1,1,"2022-11-16",True
+346,"chalet","Sharm al-Sheikh","3909.3",3,2,"2022-11-11",True
+347,"apartment","Giza","1981.08",3,2,"2022-07-19",False
+348,"villa","Cairo","1043.06",5,2,"2022-03-05",False
+349,"chalet","Sharm al-Sheikh","3963.86",4,2,"2022-08-07",True
+350,"chalet","Giza","3591.91",1,1,"2022-02-09",True
+351,"apartment","Cairo","3746.36",3,2,"2022-01-14",True
+352,"chalet","Sharm al-Sheikh","3915.14",4,1,"2022-04-21",True
+353,"chalet","Alexandria","3301.46",1,2,"2022-05-01",False
+354,"apartment","Alexandria","744.38",4,1,"2022-07-30",True
+355,"chalet","Sharm al-Sheikh","4304.74",3,3,"2022-06-11",False
+356,"villa","Giza","4659.8",2,3,"2022-11-03",False
+357,"apartment","Marsa Matrouh","3104.36",3,2,"2022-10-12",False
+358,"villa","Sharm al-Sheikh","3511.85",5,1,"2022-05-27",False
+359,"apartment","Cairo","2194.59",3,3,"2022-09-08",False
+360,"chalet","Alexandria","2620.03",2,2,"2022-08-31",True
+361,"villa","Giza","1314.74",4,3,"2022-04-18",False
+362,"apartment","Ain Sokhna","2399.77",5,1,"2022-06-24",False
+363,"chalet","Alexandria","1722.98",5,3,"2022-02-28",False
+364,"apartment","Cairo","1347.2",1,2,"2022-10-05",True
+365,"villa","Sharm al-Sheikh","4192.33",1,3,"2022-01-23",True
+366,"villa","Marsa Matrouh","4630.65",2,3,"2022-01-26",False
+367,"villa","Giza","2681.96",5,1,"2022-01-28",False
+368,"chalet","Cairo","1784.05",2,3,"2022-01-02",False
+369,"apartment","Marsa Matrouh","841.83",4,3,"2022-12-18",False
+370,"villa","Cairo","4591.56",4,2,"2022-02-24",True
+371,"villa","Cairo","2856.41",1,1,"2022-03-24",True
+372,"apartment","Marsa Matrouh","4941.41",2,1,"2022-02-14",False
+373,"apartment","Marsa Matrouh","1072.07",1,3,"2022-04-17",True
+374,"apartment","Ain Sokhna","2953.97",5,3,"2022-09-11",True
+375,"chalet","Alexandria","4104.56",5,1,"2022-07-31",False
+376,"chalet","Sharm al-Sheikh","4424.96",5,1,"2022-04-24",False
+377,"apartment","Ain Sokhna","4268.43",5,1,"2022-07-12",True
+378,"villa","Marsa Matrouh","4770.64",5,3,"2022-04-22",True
+379,"villa","Marsa Matrouh","4502.6",3,1,"2022-02-24",True
+380,"apartment","Ain Sokhna","2854.98",1,3,"2022-08-25",True
+381,"chalet","Cairo","2811.37",1,1,"2022-04-30",True
+382,"villa","Cairo","2642",1,2,"2022-11-25",True
+383,"apartment","Sharm al-Sheikh","4307.31",3,2,"2022-05-17",False
+384,"apartment","Cairo","2851.25",4,1,"2022-01-17",False
+385,"chalet","Cairo","1492.29",4,3,"2022-04-21",True
+386,"chalet","Cairo","4914.87",1,1,"2022-03-17",False
+387,"villa","Marsa Matrouh","4974.92",1,2,"2022-11-26",True
+388,"apartment","Alexandria","2454.08",3,2,"2022-08-04",False
+389,"chalet","Giza","3279.67",5,3,"2022-11-05",False
+390,"villa","Ain Sokhna","3594.54",4,1,"2022-10-17",False
+391,"apartment","Ain Sokhna","565.98",3,2,"2022-09-07",False
+392,"apartment","Alexandria","4411.72",2,2,"2022-07-28",False
+393,"villa","Cairo","874.55",3,3,"2022-10-08",True
+394,"chalet","Giza","4821.15",4,1,"2022-12-05",True
+395,"villa","Cairo","2530.38",4,2,"2022-07-22",False
+396,"apartment","Ain Sokhna","4969.93",3,2,"2022-03-24",True
+397,"chalet","Marsa Matrouh","907.89",3,3,"2022-07-27",False
+398,"apartment","Alexandria","613.57",1,3,"2022-05-19",True
+399,"apartment","Marsa Matrouh","1630.27",3,3,"2022-05-17",False
+400,"villa","Giza","3121.39",2,3,"2022-03-07",False
+401,"chalet","Giza","1814.92",4,1,"2022-07-18",True
+402,"villa","Giza","3320.53",5,1,"2022-07-10",False
+403,"apartment","Cairo","2312.43",2,2,"2022-02-13",True
+404,"apartment","Ain Sokhna","3987.94",1,1,"2022-09-04",True
+405,"villa","Ain Sokhna","4033.05",1,3,"2022-09-09",False
+406,"apartment","Giza","4461.61",3,1,"2022-12-06",False
+407,"chalet","Sharm al-Sheikh","3806.43",4,2,"2022-01-18",False
+408,"apartment","Ain Sokhna","1775.15",5,1,"2022-08-01",False
+409,"apartment","Sharm al-Sheikh","3988.9",1,1,"2022-02-05",False
+410,"apartment","Giza","2371.9",5,3,"2022-05-05",False
+411,"chalet","Sharm al-Sheikh","4421",1,2,"2022-06-14",True
+412,"villa","Cairo","4540.82",1,2,"2022-10-20",False
+413,"chalet","Ain Sokhna","724.67",2,3,"2022-08-31",True
+414,"apartment","Cairo","786.96",4,2,"2022-09-15",False
+415,"villa","Sharm al-Sheikh","4119.08",2,1,"2022-09-06",False
+416,"villa","Giza","2582.43",5,1,"2022-08-15",False
+417,"apartment","Sharm al-Sheikh","1240.45",3,3,"2022-01-11",False
+418,"villa","Marsa Matrouh","4130.92",2,2,"2022-05-01",True
+419,"chalet","Alexandria","3024.09",3,3,"2022-01-06",False
+420,"apartment","Marsa Matrouh","2540.02",2,3,"2022-11-01",False
+421,"villa","Cairo","1320.91",5,2,"2022-02-09",True
+422,"apartment","Cairo","1609.92",5,3,"2022-09-22",True
+423,"apartment","Marsa Matrouh","4490.34",5,1,"2022-11-10",False
+424,"villa","Marsa Matrouh","878.76",4,3,"2022-08-30",False
+425,"chalet","Cairo","3053.59",4,1,"2022-09-20",True
+426,"apartment","Alexandria","2081.55",2,2,"2022-03-13",True
+427,"villa","Giza","2137.98",4,1,"2022-07-10",False
+428,"villa","Sharm al-Sheikh","3306.7",4,2,"2022-09-15",True
+429,"apartment","Alexandria","2197.22",1,2,"2022-08-18",False
+430,"apartment","Giza","642.53",3,1,"2022-07-08",False
+431,"apartment","Sharm al-Sheikh","2109.52",4,1,"2022-05-17",True
+432,"chalet","Marsa Matrouh","3730.51",3,3,"2022-07-19",False
+433,"apartment","Giza","3488.39",4,3,"2022-10-31",True
+434,"villa","Marsa Matrouh","4248.31",2,1,"2022-03-13",True
+435,"apartment","Cairo","548.52",2,3,"2022-10-06",False
+436,"apartment","Marsa Matrouh","4813.43",3,2,"2022-03-31",False
+437,"apartment","Ain Sokhna","2886.74",1,1,"2022-11-02",False
+438,"chalet","Sharm al-Sheikh","2948.38",4,3,"2022-01-15",True
+439,"villa","Marsa Matrouh","1642.72",1,1,"2022-04-08",False
+440,"villa","Ain Sokhna","3444.48",2,3,"2022-02-09",False
+441,"chalet","Ain Sokhna","4027.94",1,3,"2022-12-06",True
+442,"villa","Giza","3389.45",2,1,"2022-06-30",True
+443,"chalet","Alexandria","509.99",4,1,"2022-07-01",False
+444,"apartment","Marsa Matrouh","4905.65",3,3,"2022-07-31",False
+445,"chalet","Alexandria","2766.07",2,2,"2022-08-23",True
+446,"villa","Giza","602.18",5,1,"2022-03-20",False
+447,"chalet","Ain Sokhna","3636.32",4,2,"2022-12-04",False
+448,"chalet","Alexandria","4626.52",2,3,"2022-04-03",True
+449,"chalet","Alexandria","1046.48",2,2,"2022-07-26",True
+450,"apartment","Sharm al-Sheikh","762.61",3,3,"2022-08-23",False
+451,"apartment","Ain Sokhna","4122.99",1,1,"2022-04-29",False
+452,"chalet","Cairo","2620.05",3,2,"2022-04-19",False
+453,"apartment","Giza","2051.5",2,2,"2022-08-29",False
+454,"chalet","Marsa Matrouh","3451.01",1,2,"2022-07-24",False
+455,"chalet","Marsa Matrouh","4195.21",2,3,"2022-01-21",False
+456,"chalet","Ain Sokhna","939.38",2,3,"2022-12-22",True
+457,"chalet","Sharm al-Sheikh","4655.76",3,2,"2022-04-11",True
+458,"apartment","Ain Sokhna","1371.82",4,1,"2022-06-09",True
+459,"villa","Ain Sokhna","2018.62",2,3,"2022-04-07",True
+460,"chalet","Marsa Matrouh","2150.31",4,3,"2022-12-29",False
+461,"chalet","Marsa Matrouh","3508.11",4,3,"2022-06-14",True
+462,"chalet","Cairo","1067.15",1,3,"2022-10-21",False
+463,"villa","Cairo","2873.96",2,3,"2022-05-15",False
+464,"apartment","Alexandria","3087.85",3,1,"2022-09-17",True
+465,"villa","Sharm al-Sheikh","2570.89",2,3,"2022-09-29",True
+466,"apartment","Giza","2329.88",3,1,"2022-04-22",True
+467,"chalet","Marsa Matrouh","3282.11",1,2,"2022-04-10",False
+468,"chalet","Alexandria","3460.14",1,2,"2022-04-10",False
+469,"apartment","Sharm al-Sheikh","871.2",2,2,"2022-08-16",True
+470,"villa","Alexandria","1429.06",1,3,"2022-04-29",False
+471,"villa","Cairo","4896.94",3,2,"2022-06-16",True
+472,"apartment","Cairo","1283.39",4,3,"2022-02-04",True
+473,"villa","Ain Sokhna","1698.31",4,2,"2022-09-01",False
+474,"apartment","Cairo","2218.96",2,3,"2022-12-27",True
+475,"villa","Ain Sokhna","1071.58",5,3,"2022-05-11",False
+476,"villa","Sharm al-Sheikh","2744.26",4,1,"2022-07-05",True
+477,"chalet","Ain Sokhna","1273",4,3,"2022-04-15",False
+478,"villa","Marsa Matrouh","4532.5",1,3,"2022-01-15",True
+479,"chalet","Marsa Matrouh","627.66",5,1,"2022-09-03",True
+480,"chalet","Ain Sokhna","3122.2",5,3,"2022-06-30",True
+481,"villa","Marsa Matrouh","816.01",1,2,"2022-12-10",True
+482,"villa","Giza","1766.28",1,3,"2022-04-07",True
+483,"apartment","Giza","4515.53",3,3,"2022-01-24",True
+484,"apartment","Marsa Matrouh","2734.57",2,1,"2022-08-29",False
+485,"villa","Ain Sokhna","4773",1,2,"2022-10-24",False
+486,"chalet","Ain Sokhna","1644.91",5,3,"2022-11-23",True
+487,"apartment","Ain Sokhna","3491.44",5,2,"2022-05-29",False
+488,"chalet","Marsa Matrouh","4081.78",4,3,"2022-08-31",False
+489,"apartment","Giza","1803.78",2,3,"2022-09-11",True
+490,"apartment","Giza","3898.75",4,3,"2022-09-25",False
+491,"apartment","Sharm al-Sheikh","1395.63",4,1,"2022-12-28",True
+492,"chalet","Giza","1615.45",3,2,"2022-10-25",False
+493,"chalet","Ain Sokhna","1206.98",3,3,"2022-11-03",False
+494,"villa","Sharm al-Sheikh","4068.26",1,3,"2022-02-24",True
+495,"villa","Alexandria","4845.63",4,2,"2022-04-12",False
+496,"chalet","Ain Sokhna","4642.69",4,1,"2022-03-15",True
+497,"chalet","Marsa Matrouh","2858.79",1,3,"2022-08-06",False
+498,"apartment","Ain Sokhna","4800.29",4,1,"2022-09-21",True
+499,"apartment","Giza","2236.64",1,3,"2022-10-09",True
+500,"chalet","Cairo","695.6",2,3,"2022-12-14",True
+501,"apartment","Marsa Matrouh","2002.22",3,1,"2022-10-21",False
+502,"chalet","Marsa Matrouh","4726.26",4,2,"2022-11-06",False
+503,"chalet","Sharm al-Sheikh","4408.51",1,2,"2022-01-22",True
+504,"chalet","Cairo","4085.64",1,1,"2022-03-18",False
+505,"villa","Marsa Matrouh","1797.16",5,1,"2022-12-09",False
+506,"apartment","Alexandria","1356.56",3,1,"2022-07-08",False
+507,"villa","Ain Sokhna","3353.01",3,3,"2022-05-20",True
+508,"villa","Marsa Matrouh","4817.86",3,2,"2022-06-21",False
+509,"apartment","Marsa Matrouh","2162.42",1,1,"2022-10-23",False
+510,"chalet","Giza","2743.61",4,2,"2022-09-18",True
+511,"chalet","Cairo","3653.25",4,2,"2022-11-12",True
+512,"villa","Giza","3077.23",2,2,"2022-10-10",False
+513,"apartment","Cairo","944.65",4,1,"2022-05-31",True
+514,"apartment","Sharm al-Sheikh","730.96",2,2,"2022-11-12",True
+515,"chalet","Giza","4425.39",1,3,"2022-02-18",False
+516,"apartment","Marsa Matrouh","4149.81",4,3,"2022-06-03",False
+517,"villa","Sharm al-Sheikh","3680.98",4,1,"2022-07-10",True
+518,"apartment","Sharm al-Sheikh","1710.71",2,1,"2022-03-11",True
+519,"villa","Alexandria","3954.51",1,3,"2022-03-01",True
+520,"villa","Giza","738.69",4,1,"2022-07-02",False
+521,"apartment","Cairo","4972",3,3,"2022-11-10",True
+522,"apartment","Ain Sokhna","561.94",3,1,"2022-08-26",True
+523,"apartment","Sharm al-Sheikh","4991.11",2,1,"2022-06-23",True
+524,"chalet","Sharm al-Sheikh","4371.5",1,1,"2022-06-01",True
+525,"villa","Ain Sokhna","1713.55",4,3,"2022-11-19",False
+526,"villa","Sharm al-Sheikh","3894.65",2,3,"2022-02-14",False
+527,"villa","Cairo","3671.05",4,1,"2022-01-14",True
+528,"villa","Cairo","1020.25",1,3,"2022-09-07",False
+529,"villa","Sharm al-Sheikh","3980.28",4,1,"2022-08-07",False
+530,"chalet","Cairo","3949.71",3,3,"2022-05-14",True
+531,"villa","Sharm al-Sheikh","1976.82",4,1,"2022-02-13",True
+532,"villa","Cairo","3351.31",5,1,"2022-08-28",False
+533,"chalet","Alexandria","3113.46",2,2,"2022-09-23",False
+534,"chalet","Marsa Matrouh","4542.92",2,3,"2022-08-19",True
+535,"chalet","Sharm al-Sheikh","3207.23",5,2,"2022-09-05",False
+536,"apartment","Alexandria","2953.33",4,1,"2022-02-23",True
+537,"apartment","Ain Sokhna","2939.04",2,3,"2022-12-10",False
+538,"villa","Cairo","2228.77",1,3,"2022-08-11",False
+539,"chalet","Alexandria","4363.66",5,3,"2022-08-13",False
+540,"apartment","Alexandria","4451.13",3,2,"2022-07-19",False
+541,"villa","Marsa Matrouh","3598.33",4,1,"2022-12-24",False
+542,"villa","Marsa Matrouh","831.45",1,2,"2022-02-12",False
+543,"chalet","Giza","1252.84",5,3,"2022-03-03",True
+544,"apartment","Ain Sokhna","1315.84",4,2,"2022-09-05",True
+545,"chalet","Sharm al-Sheikh","1256.25",2,1,"2022-07-16",False
+546,"villa","Ain Sokhna","3047.9",4,3,"2022-02-08",False
+548,"chalet","Sharm al-Sheikh","1980.53",1,2,"2022-08-19",True
+549,"apartment","Giza","2744.51",3,2,"2022-12-07",True
+550,"villa","Ain Sokhna","2719.84",2,2,"2022-02-10",False
+551,"chalet","Alexandria","3944.94",3,2,"2022-05-18",True
+552,"apartment","Ain Sokhna","3623.84",4,3,"2022-09-18",True
+553,"apartment","Ain Sokhna","4898.09",3,3,"2022-10-13",True
+554,"villa","Giza","2107.83",2,3,"2022-02-10",False
+555,"chalet","Ain Sokhna","1274.83",2,1,"2022-09-09",True
+556,"chalet","Alexandria","655.22",4,2,"2022-07-20",False
+557,"chalet","Cairo","621.18",4,1,"2022-01-15",True
+558,"chalet","Sharm al-Sheikh","1518.39",4,3,"2022-06-03",True
+559,"chalet","Marsa Matrouh","3653.57",5,3,"2022-10-29",True
+560,"apartment","Cairo","3440.73",2,2,"2022-02-28",False
+561,"villa","Alexandria","3967.57",3,2,"2022-03-14",False
+562,"chalet","Ain Sokhna","2531.02",5,2,"2022-08-14",False
+563,"apartment","Sharm al-Sheikh","1619.23",3,1,"2022-06-22",True
+564,"villa","Sharm al-Sheikh","2315.2",5,2,"2022-03-04",False
+565,"villa","Giza","2128.8",4,3,"2022-10-05",False
+566,"villa","Marsa Matrouh","4049.83",4,3,"2022-07-23",True
+567,"apartment","Cairo","1283.26",2,3,"2022-03-22",True
+568,"apartment","Giza","1637.09",5,3,"2022-10-17",False
+569,"villa","Sharm al-Sheikh","3070.43",5,1,"2022-04-19",True
+570,"apartment","Cairo","3337.14",5,2,"2022-12-07",True
+571,"chalet","Marsa Matrouh","4754.47",4,3,"2022-11-28",False
+572,"villa","Sharm al-Sheikh","3339.25",4,2,"2022-05-30",True
+573,"chalet","Marsa Matrouh","2557.99",3,2,"2022-07-23",False
+574,"apartment","Alexandria","754.05",5,2,"2022-04-24",False
+575,"chalet","Marsa Matrouh","4892.57",1,2,"2022-09-26",True
+576,"apartment","Ain Sokhna","4357.18",5,1,"2022-10-29",True
+577,"chalet","Giza","964.35",3,3,"2022-06-09",False
+578,"apartment","Cairo","3165.06",1,3,"2022-01-29",False
+579,"apartment","Sharm al-Sheikh","1938.97",1,1,"2022-05-09",True
+580,"chalet","Giza","4057.82",2,1,"2022-04-24",False
+581,"chalet","Ain Sokhna","4207.95",3,2,"2022-01-27",True
+582,"chalet","Alexandria","4989.67",4,1,"2022-02-18",False
+583,"chalet","Marsa Matrouh","1530.59",3,1,"2022-04-11",True
+584,"apartment","Sharm al-Sheikh","4373.96",3,2,"2022-11-14",True
+585,"apartment","Sharm al-Sheikh","2500.92",4,1,"2022-04-21",False
+586,"apartment","Sharm al-Sheikh","2671.6",3,2,"2022-05-18",True
+587,"villa","Alexandria","3328.38",4,3,"2022-01-03",False
+588,"villa","Cairo","3389.75",5,1,"2022-10-06",False
+589,"apartment","Cairo","4611.31",2,2,"2022-07-06",False
+590,"villa","Marsa Matrouh","1643.01",3,1,"2022-01-09",False
+591,"villa","Cairo","4804.01",4,1,"2022-03-28",False
+592,"villa","Giza","3613.92",2,3,"2022-09-08",False
+593,"apartment","Marsa Matrouh","3936.89",3,3,"2022-03-15",False
+594,"apartment","Marsa Matrouh","888.05",2,1,"2022-01-19",True
+595,"apartment","Cairo","684.91",1,2,"2022-04-23",False
+596,"villa","Giza","1266.39",1,3,"2022-05-30",False
+597,"apartment","Cairo","4950.56",3,3,"2022-05-02",False
+598,"villa","Alexandria","4853.59",4,1,"2022-02-08",False
+599,"chalet","Marsa Matrouh","2046.98",5,3,"2022-02-04",True
+600,"villa","Sharm al-Sheikh","1191.3",5,2,"2022-01-31",False
+601,"apartment","Ain Sokhna","2982.7",2,2,"2022-08-24",False
+602,"villa","Cairo","3383.19",3,1,"2022-07-09",False
+603,"apartment","Marsa Matrouh","2041.31",2,2,"2022-11-08",False
+604,"apartment","Ain Sokhna","2028.61",1,2,"2022-12-03",False
+605,"apartment","Sharm al-Sheikh","3534.04",5,1,"2022-09-14",True
+606,"apartment","Giza","2967.93",4,1,"2022-12-17",False
+607,"chalet","Ain Sokhna","3463.56",2,1,"2022-06-20",True
+608,"villa","Giza","1628.89",4,3,"2022-12-26",True
+609,"apartment","Alexandria","3967.67",5,2,"2022-01-16",False
+610,"chalet","Sharm al-Sheikh","2321.95",3,1,"2022-12-23",False
+611,"villa","Giza","3241.16",4,3,"2022-02-16",False
+612,"villa","Giza","4213.21",3,1,"2022-01-15",True
+613,"chalet","Giza","3715.65",4,1,"2022-08-04",True
+614,"apartment","Sharm al-Sheikh","1167.92",2,1,"2022-07-03",True
+615,"chalet","Cairo","4140.16",5,3,"2022-05-11",False
+616,"apartment","Cairo","3416.46",1,1,"2022-06-11",False
+617,"apartment","Sharm al-Sheikh","4304.84",2,2,"2022-08-31",True
+618,"chalet","Giza","518.16",1,2,"2022-11-19",True
+619,"villa","Marsa Matrouh","4858.36",1,3,"2022-06-21",False
+620,"villa","Cairo","1934.78",2,1,"2022-12-11",False
+621,"chalet","Sharm al-Sheikh","3922.45",5,2,"2022-12-30",True
+622,"villa","Giza","3455.78",4,2,"2022-03-08",True
+623,"villa","Ain Sokhna","1548.95",1,1,"2022-07-09",True
+624,"chalet","Marsa Matrouh","4379.09",1,1,"2022-04-19",False
+625,"chalet","Giza","4727.11",1,3,"2022-05-12",False
+626,"apartment","Ain Sokhna","689.42",1,1,"2022-07-02",True
+627,"chalet","Alexandria","1915.94",2,3,"2022-12-26",True
+628,"apartment","Cairo","1182.49",5,2,"2022-09-04",False
+629,"apartment","Alexandria","4162.24",3,1,"2022-09-01",False
+630,"apartment","Sharm al-Sheikh","2499.3",4,2,"2022-10-28",True
+631,"villa","Sharm al-Sheikh","1955.35",5,2,"2022-11-18",True
+632,"chalet","Sharm al-Sheikh","4751.11",1,3,"2022-01-20",False
+633,"villa","Alexandria","4014.54",3,1,"2022-06-01",True
+634,"apartment","Cairo","940.55",3,2,"2022-06-15",True
+635,"apartment","Alexandria","4526.28",4,2,"2022-12-09",False
+636,"villa","Cairo","3843.54",2,2,"2022-03-23",True
+637,"apartment","Ain Sokhna","3457.34",4,3,"2022-08-24",False
+638,"chalet","Sharm al-Sheikh","3691.49",3,1,"2022-04-25",True
+639,"apartment","Alexandria","4544.36",4,1,"2022-01-13",False
+640,"chalet","Alexandria","1464.67",1,2,"2022-07-06",True
+641,"villa","Marsa Matrouh","1518.75",1,3,"2022-08-28",False
+642,"chalet","Giza","3819.94",1,3,"2022-02-02",False
+643,"chalet","Giza","665.48",3,3,"2022-01-03",True
+644,"apartment","Giza","1599.79",3,1,"2022-05-16",False
+645,"chalet","Ain Sokhna","1130.37",2,2,"2022-07-24",False
+646,"chalet","Cairo","4071.41",5,2,"2022-07-27",False
+647,"chalet","Sharm al-Sheikh","2094.38",4,1,"2022-08-12",True
+648,"apartment","Sharm al-Sheikh","3403.1",1,2,"2022-01-13",True
+649,"apartment","Cairo","1717.24",5,3,"2022-07-21",False
+650,"apartment","Cairo","3996.15",4,2,"2022-05-09",False
+651,"apartment","Giza","506",5,1,"2022-07-21",True
+652,"chalet","Marsa Matrouh","1163.22",3,3,"2022-11-07",False
+653,"apartment","Giza","2168.12",4,2,"2022-05-01",True
+654,"villa","Giza","558.08",2,2,"2022-07-25",False
+655,"chalet","Alexandria","3134.4",1,1,"2022-10-04",False
+656,"chalet","Cairo","4039.95",5,3,"2022-04-02",True
+657,"chalet","Giza","3578.3",3,2,"2022-01-02",True
+658,"apartment","Ain Sokhna","1629.11",4,2,"2022-12-20",True
+659,"chalet","Cairo","2127.36",1,1,"2022-03-25",False
+660,"villa","Alexandria","1754.39",1,3,"2022-12-26",True
+661,"chalet","Alexandria","2943.75",2,3,"2022-05-03",True
+662,"villa","Sharm al-Sheikh","2748.25",5,2,"2022-05-01",True
+663,"chalet","Marsa Matrouh","1888.93",1,1,"2022-04-16",False
+664,"apartment","Cairo","3464.53",1,1,"2022-08-11",False
+665,"villa","Alexandria","4352.18",4,2,"2022-09-09",False
+666,"apartment","Marsa Matrouh","1797.85",5,1,"2022-07-13",True
+667,"villa","Sharm al-Sheikh","4824.36",3,1,"2022-07-01",False
+668,"villa","Cairo","1650.33",4,3,"2022-03-16",False
+669,"chalet","Sharm al-Sheikh","3706.38",4,2,"2022-04-04",True
+670,"chalet","Ain Sokhna","3825.36",3,1,"2022-11-06",False
+671,"villa","Alexandria","586.06",5,1,"2022-04-04",True
+672,"villa","Cairo","4616.9",3,2,"2022-02-05",True
+673,"chalet","Marsa Matrouh","1012.67",2,3,"2022-09-29",True
+674,"apartment","Cairo","2516.89",2,1,"2022-04-04",False
+675,"chalet","Sharm al-Sheikh","4339.24",5,1,"2022-03-10",True
+676,"villa","Giza","620.7",1,3,"2022-06-21",True
+677,"chalet","Alexandria","642.39",4,2,"2022-04-01",False
+678,"villa","Ain Sokhna","3018.83",3,2,"2022-08-13",False
+679,"villa","Sharm al-Sheikh","4528.82",1,1,"2022-01-01",True
+680,"chalet","Ain Sokhna","737.29",3,2,"2022-07-14",False
+681,"chalet","Marsa Matrouh","2176.58",5,2,"2022-11-26",True
+682,"chalet","Sharm al-Sheikh","2663.71",1,2,"2022-03-11",True
+683,"villa","Marsa Matrouh","3923.23",5,3,"2022-01-13",False
+684,"villa","Marsa Matrouh","954.67",4,2,"2022-05-05",True
+685,"apartment","Alexandria","1469.81",4,2,"2022-03-09",False
+686,"apartment","Cairo","1413.61",3,2,"2022-03-07",False
+687,"apartment","Ain Sokhna","2207.11",4,2,"2022-05-06",False
+688,"chalet","Cairo","2605.34",2,2,"2022-01-19",False
+689,"chalet","Marsa Matrouh","4036.82",3,1,"2022-11-09",False
+690,"villa","Ain Sokhna","1264.87",3,2,"2022-11-08",True
+691,"apartment","Sharm al-Sheikh","3839.2",1,1,"2022-06-11",False
+692,"apartment","Giza","4555.36",5,1,"2022-06-26",True
+693,"villa","Marsa Matrouh","2757.92",5,1,"2022-10-25",True
+694,"chalet","Sharm al-Sheikh","3913.27",3,1,"2022-02-11",False
+695,"chalet","Giza","4643.74",4,3,"2022-03-24",False
+696,"villa","Sharm al-Sheikh","1153.93",1,1,"2022-08-30",False
+697,"chalet","Ain Sokhna","697.24",3,1,"2022-09-15",True
+698,"apartment","Marsa Matrouh","1002.95",3,2,"2022-01-04",False
+699,"chalet","Sharm al-Sheikh","1947.23",4,1,"2022-05-02",False
+700,"apartment","Alexandria","4085.65",2,1,"2022-04-07",False
+701,"villa","Cairo","1867.38",1,3,"2022-06-16",False
+702,"apartment","Cairo","2155.04",3,2,"2022-04-19",True
+703,"villa","Ain Sokhna","3131.14",5,3,"2022-07-17",False
+704,"apartment","Ain Sokhna","4545.27",5,2,"2022-08-26",True
+705,"villa","Marsa Matrouh","3390.38",1,1,"2022-10-04",True
+706,"apartment","Alexandria","2357.42",1,1,"2022-08-11",False
+707,"villa","Alexandria","3605.56",1,1,"2022-05-14",False
+708,"villa","Alexandria","638.3",3,2,"2022-10-09",False
+709,"chalet","Marsa Matrouh","2426.33",2,3,"2022-08-10",False
+710,"apartment","Marsa Matrouh","2911.54",2,2,"2022-08-13",True
+711,"apartment","Ain Sokhna","3466.17",2,2,"2022-06-24",False
+712,"apartment","Sharm al-Sheikh","526.66",5,2,"2022-04-22",False
+713,"apartment","Cairo","2175.53",1,3,"2022-07-09",True
+714,"villa","Ain Sokhna","3681.51",1,3,"2022-10-19",True
+715,"apartment","Giza","2747.56",5,3,"2022-06-08",False
+716,"chalet","Marsa Matrouh","3107.44",1,3,"2022-08-21",True
+717,"apartment","Marsa Matrouh","1426.22",2,1,"2022-01-21",False
+718,"apartment","Ain Sokhna","2869.03",1,2,"2022-04-05",False
+719,"apartment","Cairo","2477.33",5,1,"2022-04-14",False
+720,"chalet","Marsa Matrouh","3489.16",4,2,"2022-06-03",True
+721,"chalet","Sharm al-Sheikh","1086.01",1,2,"2022-05-17",False
+722,"villa","Marsa Matrouh","4834.61",4,1,"2022-07-07",False
+723,"chalet","Marsa Matrouh","4433.77",3,2,"2022-03-28",True
+724,"villa","Giza","559.41",4,1,"2022-02-23",False
+725,"villa","Marsa Matrouh","3353.79",5,3,"2022-01-18",False
+726,"chalet","Alexandria","1464.67",2,3,"2022-12-08",False
+727,"villa","Cairo","3082.58",1,3,"2022-11-01",True
+728,"chalet","Cairo","753.03",1,3,"2022-03-14",False
+729,"chalet","Marsa Matrouh","4200.34",5,1,"2022-12-17",True
+730,"apartment","Alexandria","1932.72",3,3,"2022-10-16",True
+731,"villa","Marsa Matrouh","4530.46",1,1,"2022-11-23",False
+732,"apartment","Marsa Matrouh","1791.37",5,2,"2022-04-25",False
+733,"apartment","Alexandria","4820.22",2,2,"2022-04-21",True
+734,"apartment","Sharm al-Sheikh","846.78",5,1,"2022-07-16",True
+735,"villa","Ain Sokhna","2353.33",1,2,"2022-02-08",True
+736,"villa","Alexandria","3756.36",2,2,"2022-04-29",True
+737,"chalet","Ain Sokhna","2425.27",1,1,"2022-06-10",False
+738,"chalet","Giza","2104.93",3,2,"2022-12-12",True
+739,"chalet","Sharm al-Sheikh","594.25",3,3,"2022-08-20",False
+740,"apartment","Giza","2892.13",1,2,"2022-01-11",False
+741,"apartment","Cairo","4609.88",5,3,"2022-02-05",False
+742,"chalet","Cairo","2023.08",3,2,"2022-04-28",False
+743,"chalet","Cairo","1757.21",1,2,"2022-10-26",False
+744,"apartment","Ain Sokhna","3743.05",4,1,"2022-07-15",False
+745,"apartment","Giza","1113.98",3,1,"2022-07-24",True
+746,"apartment","Giza","4328.71",4,1,"2022-07-04",True
+747,"apartment","Giza","763.76",5,1,"2022-04-01",False
+748,"apartment","Cairo","2745.3",4,1,"2022-07-30",True
+749,"apartment","Cairo","3296.97",3,1,"2022-04-15",True
+750,"apartment","Alexandria","4410.12",4,3,"2022-07-10",False
+751,"villa","Marsa Matrouh","4437.6",4,2,"2022-08-16",False
+752,"villa","Marsa Matrouh","2919.06",4,2,"2022-07-17",True
+753,"apartment","Ain Sokhna","2072.78",4,1,"2022-08-04",False
+754,"apartment","Alexandria","4126.12",4,3,"2022-07-03",True
+755,"apartment","Sharm al-Sheikh","4069.12",3,3,"2022-07-01",False
+756,"chalet","Giza","2625.17",5,1,"2022-06-15",True
+757,"apartment","Cairo","2649.56",4,3,"2022-07-30",True
+758,"chalet","Cairo","1560.08",3,1,"2022-12-05",False
+759,"chalet","Alexandria","3051.4",4,1,"2022-03-11",False
+760,"chalet","Alexandria","4939.82",2,2,"2022-07-31",False
+761,"apartment","Giza","4440.96",5,2,"2022-02-23",False
+762,"villa","Sharm al-Sheikh","4765.47",4,3,"2022-12-27",False
+763,"villa","Alexandria","3724.34",3,3,"2022-06-01",True
+764,"apartment","Marsa Matrouh","1058.87",3,1,"2022-11-06",False
+765,"apartment","Marsa Matrouh","819.5",1,1,"2022-04-14",False
+766,"apartment","Ain Sokhna","4401.79",3,3,"2022-02-22",False
+767,"apartment","Sharm al-Sheikh","1971.28",2,3,"2022-05-10",True
+768,"apartment","Marsa Matrouh","2686.95",5,1,"2022-04-02",True
+769,"chalet","Ain Sokhna","3864.96",2,2,"2022-11-12",False
+770,"villa","Alexandria","3418.06",2,3,"2022-01-15",False
+771,"apartment","Ain Sokhna","2035.83",3,3,"2022-07-24",True
+772,"chalet","Cairo","3320.51",2,2,"2022-09-09",True
+773,"chalet","Alexandria","4100.73",1,1,"2022-08-04",True
+774,"chalet","Giza","1805.16",3,1,"2022-02-17",True
+775,"apartment","Sharm al-Sheikh","3254.36",4,2,"2022-10-16",True
+776,"apartment","Giza","3189.58",5,3,"2022-09-26",False
+777,"chalet","Sharm al-Sheikh","3022.74",5,2,"2022-12-13",True
+778,"villa","Cairo","2845.71",3,1,"2022-05-15",True
+779,"apartment","Ain Sokhna","3244.69",1,3,"2022-03-11",False
+780,"apartment","Sharm al-Sheikh","4301.09",2,1,"2022-06-01",False
+781,"chalet","Alexandria","2938.83",3,1,"2022-09-23",False
+782,"chalet","Alexandria","2610.93",3,2,"2022-04-12",True
+783,"villa","Alexandria","3375.99",1,1,"2022-10-03",False
+784,"apartment","Ain Sokhna","4474.82",3,1,"2022-03-16",False
+785,"apartment","Cairo","2256.55",4,2,"2022-01-05",False
+786,"chalet","Giza","3117.77",5,3,"2022-03-26",True
+787,"apartment","Giza","529.94",4,1,"2022-11-07",True
+788,"apartment","Ain Sokhna","1927.97",1,1,"2022-04-24",True
+789,"chalet","Giza","4754.84",5,1,"2022-08-27",True
+790,"apartment","Cairo","2660.43",1,3,"2022-10-24",True
+791,"villa","Alexandria","4743.45",4,1,"2022-12-28",True
+792,"villa","Giza","3084.6",4,1,"2022-02-13",False
+793,"villa","Marsa Matrouh","2069.13",1,3,"2022-10-30",True
+794,"villa","Marsa Matrouh","1732.38",1,1,"2022-09-16",False
+795,"villa","Marsa Matrouh","601.23",3,1,"2022-06-30",True
+796,"villa","Alexandria","2299.3",2,1,"2022-09-14",False
+797,"chalet","Sharm al-Sheikh","2843.17",2,3,"2022-03-04",True
+798,"villa","Sharm al-Sheikh","4908.62",3,3,"2022-09-01",True
+799,"apartment","Cairo","4590.16",3,1,"2022-05-18",False
+800,"chalet","Giza","3423.22",1,2,"2022-10-02",True
+801,"apartment","Alexandria","4781.36",5,3,"2022-10-26",True
+802,"apartment","Ain Sokhna","3864.92",5,1,"2022-06-15",True
+803,"chalet","Giza","3835.25",1,1,"2022-04-12",True
+804,"chalet","Marsa Matrouh","3731.6",1,1,"2022-10-28",True
+805,"chalet","Ain Sokhna","693.12",3,1,"2022-03-14",True
+806,"villa","Cairo","3572.42",2,3,"2022-03-10",True
+807,"apartment","Marsa Matrouh","4340.21",4,1,"2022-04-27",False
+808,"chalet","Cairo","2069.99",5,3,"2022-04-26",True
+809,"villa","Sharm al-Sheikh","4601.2",5,2,"2022-03-24",True
+810,"chalet","Alexandria","2741.69",4,2,"2022-12-03",False
+811,"apartment","Sharm al-Sheikh","2923.52",3,2,"2022-01-25",True
+812,"villa","Ain Sokhna","2854.31",3,3,"2022-11-09",True
+813,"apartment","Cairo","4838.76",3,3,"2022-04-23",False
+814,"villa","Giza","2635.92",1,1,"2022-05-17",False
+815,"villa","Marsa Matrouh","4148.01",5,3,"2022-05-21",True
+816,"villa","Marsa Matrouh","4410.74",2,1,"2022-04-01",False
+817,"chalet","Marsa Matrouh","958.35",3,2,"2022-03-20",False
+818,"villa","Giza","2646.2",4,3,"2022-10-30",False
+819,"chalet","Giza","3258.18",2,1,"2022-05-06",False
+820,"chalet","Marsa Matrouh","2211.07",3,1,"2022-08-25",True
+821,"apartment","Sharm al-Sheikh","3095.96",4,2,"2022-11-02",False
+822,"chalet","Ain Sokhna","4204.83",4,1,"2022-06-11",True
+823,"chalet","Sharm al-Sheikh","4791.33",1,2,"2022-12-13",True
+824,"apartment","Ain Sokhna","1572.4",2,3,"2022-02-09",True
+825,"apartment","Marsa Matrouh","828.9",2,1,"2022-10-21",True
+826,"apartment","Marsa Matrouh","2308.14",5,1,"2022-04-25",True
+827,"chalet","Giza","2026.26",1,2,"2022-12-15",True
+828,"apartment","Sharm al-Sheikh","3671.66",1,2,"2022-07-03",False
+829,"apartment","Giza","2281.18",2,1,"2022-07-07",False
+830,"villa","Sharm al-Sheikh","2875.17",1,3,"2022-12-04",False
+831,"apartment","Marsa Matrouh","3967.71",1,1,"2022-12-13",True
+832,"villa","Cairo","857.69",5,2,"2022-11-03",False
+833,"apartment","Marsa Matrouh","3573.27",2,1,"2022-08-05",True
+834,"apartment","Giza","3982.09",1,3,"2022-10-11",False
+835,"chalet","Marsa Matrouh","2982.96",5,1,"2022-05-01",False
+836,"apartment","Marsa Matrouh","904.73",4,1,"2022-07-08",False
+837,"chalet","Alexandria","4872.49",1,2,"2022-10-23",False
+838,"villa","Cairo","2491.36",3,1,"2022-03-21",False
+839,"chalet","Sharm al-Sheikh","2847.41",4,1,"2022-07-27",False
+840,"apartment","Ain Sokhna","1795.85",1,2,"2022-12-03",True
+841,"apartment","Cairo","1931.88",4,1,"2022-12-07",False
+842,"villa","Ain Sokhna","3870.44",3,2,"2022-04-12",True
+843,"villa","Marsa Matrouh","755.28",4,3,"2022-02-13",False
+844,"apartment","Giza","4813.19",5,3,"2022-12-26",True
+845,"villa","Cairo","3692.89",4,1,"2022-01-09",False
+846,"apartment","Marsa Matrouh","4026.01",1,2,"2022-10-03",True
+847,"villa","Giza","1954.74",4,2,"2022-07-23",True
+848,"apartment","Alexandria","2044.37",4,3,"2022-01-27",False
+849,"villa","Alexandria","3225.94",3,2,"2022-09-18",True
+850,"villa","Sharm al-Sheikh","1844.44",3,1,"2022-08-18",False
+851,"apartment","Alexandria","4835.52",5,3,"2022-04-29",True
+852,"villa","Giza","3057.62",4,3,"2022-06-01",True
+853,"apartment","Ain Sokhna","3646.05",1,2,"2022-07-25",True
+854,"villa","Alexandria","3013.1",1,3,"2022-10-30",False
+855,"chalet","Giza","1850.2",2,1,"2022-10-08",True
+856,"chalet","Giza","2853.38",5,2,"2022-07-18",False
+857,"villa","Marsa Matrouh","4319.31",1,2,"2022-05-31",True
+858,"villa","Cairo","4195.28",2,3,"2022-07-26",True
+859,"chalet","Alexandria","1713.95",1,1,"2022-02-19",False
+860,"chalet","Alexandria","694.43",3,3,"2022-04-12",True
+861,"villa","Ain Sokhna","3932.89",5,1,"2022-05-03",False
+862,"apartment","Sharm al-Sheikh","4848.84",5,2,"2022-03-08",False
+863,"villa","Marsa Matrouh","760.32",5,1,"2022-01-16",False
+864,"chalet","Ain Sokhna","4715.87",1,2,"2022-03-09",False
+865,"apartment","Sharm al-Sheikh","4298.44",1,3,"2022-11-14",True
+866,"chalet","Sharm al-Sheikh","4546.98",5,1,"2022-02-01",True
+867,"chalet","Sharm al-Sheikh","1732.81",3,1,"2022-03-10",False
+868,"villa","Sharm al-Sheikh","4207.05",3,3,"2022-08-12",False
+869,"chalet","Giza","1707.3",4,1,"2022-05-19",False
+870,"apartment","Alexandria","2326.93",1,3,"2022-09-23",False
+871,"apartment","Marsa Matrouh","2399.88",5,1,"2022-03-09",True
+872,"villa","Alexandria","909.94",3,1,"2022-07-28",False
+873,"villa","Marsa Matrouh","3164.45",3,3,"2022-08-26",True
+874,"apartment","Cairo","3201.56",1,1,"2022-07-30",True
+875,"apartment","Giza","3536.54",1,2,"2022-08-07",False
+876,"villa","Giza","3404.04",3,1,"2022-01-15",True
+877,"chalet","Sharm al-Sheikh","3114.23",3,3,"2022-06-10",False
+878,"villa","Giza","3540.54",3,1,"2022-05-28",True
+879,"apartment","Giza","1428.93",2,3,"2022-04-11",True
+880,"villa","Ain Sokhna","1044.68",2,2,"2022-01-19",False
+881,"apartment","Sharm al-Sheikh","3592.36",4,2,"2022-08-22",True
+882,"villa","Alexandria","4070.72",5,3,"2022-03-09",True
+883,"apartment","Alexandria","2202.31",5,3,"2022-08-27",False
+884,"chalet","Cairo","2473.9",5,1,"2022-10-16",True
+885,"apartment","Alexandria","1784.46",5,2,"2022-04-10",True
+886,"chalet","Cairo","4974.22",5,3,"2022-02-26",True
+887,"villa","Alexandria","3408.32",4,1,"2022-04-03",True
+888,"chalet","Sharm al-Sheikh","557.3",3,1,"2022-09-21",True
+889,"apartment","Marsa Matrouh","746.15",4,2,"2022-06-23",False
+890,"chalet","Marsa Matrouh","4656.17",1,2,"2022-01-29",True
+891,"villa","Sharm al-Sheikh","3746.44",4,1,"2022-06-28",False
+892,"apartment","Cairo","4414.35",2,2,"2022-12-20",True
+893,"chalet","Sharm al-Sheikh","3819.24",2,3,"2022-10-30",False
+894,"villa","Alexandria","948.04",5,3,"2022-02-19",True
+895,"apartment","Sharm al-Sheikh","2818.57",2,2,"2022-12-07",True
+896,"chalet","Marsa Matrouh","3330.09",2,2,"2022-02-11",True
+897,"villa","Cairo","4304.35",3,1,"2022-07-12",True
+898,"villa","Marsa Matrouh","4665.42",3,1,"2022-09-11",False
+899,"apartment","Ain Sokhna","1194.66",2,3,"2022-09-15",True
+900,"chalet","Sharm al-Sheikh","2983.01",2,1,"2022-02-24",False
+901,"apartment","Sharm al-Sheikh","621.57",5,2,"2022-07-03",True
+902,"chalet","Giza","4970.29",1,1,"2022-05-07",True
+903,"chalet","Ain Sokhna","2705.66",2,2,"2022-04-20",False
+904,"chalet","Sharm al-Sheikh","1628.36",2,1,"2022-03-28",True
+905,"chalet","Sharm al-Sheikh","3958.97",2,2,"2022-12-15",True
+906,"villa","Marsa Matrouh","3920.36",3,1,"2022-05-03",False
+907,"villa","Giza","4599.01",4,2,"2022-01-11",True
+908,"chalet","Sharm al-Sheikh","905.61",4,1,"2022-11-01",True
+909,"villa","Alexandria","3482.93",2,1,"2022-08-27",True
+910,"chalet","Sharm al-Sheikh","840.01",1,3,"2022-06-18",False
+911,"apartment","Alexandria","2419.61",4,2,"2022-05-31",True
+912,"apartment","Giza","4683.31",3,2,"2022-07-05",True
+913,"apartment","Ain Sokhna","4583.25",4,3,"2022-11-23",True
+914,"apartment","Cairo","2734.79",5,2,"2022-06-15",False
+915,"villa","Ain Sokhna","2223.55",4,1,"2022-01-20",False
+916,"chalet","Alexandria","1385.84",5,3,"2022-04-12",False
+917,"chalet","Marsa Matrouh","3810.21",2,1,"2022-05-20",True
+918,"chalet","Giza","4050.17",1,1,"2022-01-29",True
+919,"chalet","Cairo","3620.66",5,2,"2022-08-15",True
+920,"chalet","Cairo","1422.25",3,3,"2022-11-03",True
+921,"apartment","Marsa Matrouh","2271.68",5,3,"2022-05-28",True
+922,"villa","Marsa Matrouh","2828.24",1,3,"2022-12-16",True
+923,"villa","Sharm al-Sheikh","3563.62",5,2,"2022-04-08",False
+924,"apartment","Sharm al-Sheikh","3929.13",3,3,"2022-03-10",False
+925,"villa","Cairo","2632.09",2,1,"2022-06-03",False
+926,"apartment","Giza","2130.43",4,3,"2022-09-26",False
+927,"apartment","Sharm al-Sheikh","3372.64",5,3,"2022-07-18",True
+928,"chalet","Cairo","4486.17",2,3,"2022-12-09",False
+929,"apartment","Alexandria","3568.92",1,3,"2022-10-12",True
+930,"villa","Sharm al-Sheikh","2555.6",1,2,"2022-06-07",True
+931,"villa","Cairo","4106.29",5,1,"2022-05-17",True
+932,"chalet","Alexandria","1212.86",1,1,"2022-05-11",False
+933,"apartment","Sharm al-Sheikh","918.88",1,2,"2022-05-23",False
+934,"chalet","Marsa Matrouh","1901.66",2,3,"2022-05-08",True
+935,"apartment","Alexandria","1503.54",1,3,"2022-05-05",True
+936,"villa","Sharm al-Sheikh","3123.32",5,2,"2022-01-15",False
+937,"apartment","Giza","1555.18",5,3,"2022-04-22",True
+938,"apartment","Ain Sokhna","2013.84",4,1,"2022-06-10",True
+939,"apartment","Alexandria","4717.62",1,1,"2022-06-16",True
+940,"apartment","Ain Sokhna","2713.62",3,1,"2022-07-16",False
+941,"villa","Alexandria","1469.44",2,1,"2022-06-14",True
+942,"chalet","Alexandria","2762.88",3,2,"2022-09-03",False
+943,"chalet","Alexandria","1118.57",3,3,"2022-04-04",True
+944,"apartment","Giza","2710.41",2,2,"2022-01-17",False
+945,"chalet","Alexandria","3868.73",4,2,"2022-12-18",False
+946,"villa","Marsa Matrouh","713.12",4,2,"2022-02-15",True
+947,"villa","Ain Sokhna","4620.12",1,2,"2022-11-22",True
+948,"chalet","Cairo","604.62",1,3,"2022-01-18",True
+949,"chalet","Alexandria","1508.12",1,2,"2022-11-16",True
+950,"apartment","Sharm al-Sheikh","3575.72",5,3,"2022-06-25",False
+951,"chalet","Ain Sokhna","1839.13",3,1,"2022-06-26",True
+952,"apartment","Sharm al-Sheikh","3139.35",4,2,"2022-04-17",True
+953,"apartment","Marsa Matrouh","4474.81",3,2,"2022-03-17",True
+954,"villa","Marsa Matrouh","1473.29",2,2,"2022-08-27",False
+955,"apartment","Cairo","4807.6",1,2,"2022-08-11",True
+956,"villa","Cairo","1120.25",5,2,"2022-09-06",True
+957,"apartment","Cairo","3235.58",4,1,"2022-12-02",False
+958,"apartment","Marsa Matrouh","4762.08",3,1,"2022-02-23",True
+959,"apartment","Alexandria","4998.55",1,3,"2022-01-02",True
+960,"apartment","Marsa Matrouh","4515.31",5,1,"2022-03-23",False
+961,"chalet","Giza","1624.09",1,3,"2022-04-27",False
+962,"apartment","Giza","4051.28",5,3,"2022-06-26",False
+963,"apartment","Giza","4509.27",3,2,"2022-04-06",True
+964,"villa","Marsa Matrouh","3948.29",3,2,"2022-12-27",False
+965,"apartment","Giza","3470.31",4,3,"2022-04-06",True
+966,"chalet","Sharm al-Sheikh","3606.36",5,3,"2022-02-13",False
+967,"apartment","Ain Sokhna","3055.09",3,1,"2022-05-22",False
+968,"apartment","Giza","3380.12",2,3,"2022-03-19",True
+969,"apartment","Marsa Matrouh","820.73",2,3,"2022-11-10",True
+970,"chalet","Cairo","2123.37",3,2,"2022-04-08",True
+971,"chalet","Cairo","648.52",3,3,"2022-05-31",True
+972,"chalet","Sharm al-Sheikh","2465.83",5,1,"2022-06-26",True
+973,"villa","Sharm al-Sheikh","957.21",2,2,"2022-03-21",True
+974,"apartment","Alexandria","3870.82",1,2,"2022-04-15",False
+975,"chalet","Sharm al-Sheikh","1250.79",5,3,"2022-04-09",False
+976,"villa","Giza","4376.61",3,3,"2022-05-09",False
+977,"apartment","Giza","1765.65",5,1,"2022-06-24",True
+978,"villa","Cairo","1694.92",3,1,"2022-03-27",False
+979,"villa","Sharm al-Sheikh","4719.99",3,1,"2022-06-11",True
+980,"apartment","Marsa Matrouh","1568.07",5,3,"2022-02-09",True
+981,"chalet","Ain Sokhna","2512.21",3,2,"2022-10-10",False
+982,"villa","Alexandria","3188.69",5,1,"2022-10-10",True
+983,"villa","Sharm al-Sheikh","4585.27",1,1,"2022-01-31",False
+984,"chalet","Ain Sokhna","1878.97",5,1,"2022-11-13",False
+985,"apartment","Ain Sokhna","2232.33",5,2,"2022-09-24",False
+986,"villa","Cairo","2291.37",2,3,"2022-09-04",True
+987,"chalet","Ain Sokhna","1783.12",4,1,"2022-05-08",True
+988,"apartment","Marsa Matrouh","3776.41",3,1,"2022-04-07",True
+989,"chalet","Alexandria","3077.29",1,3,"2022-02-20",False
+990,"chalet","Ain Sokhna","1273.55",1,1,"2022-10-23",True
+991,"chalet","Marsa Matrouh","1657.29",5,3,"2022-11-26",False
+992,"apartment","Sharm al-Sheikh","902.89",5,3,"2022-06-13",True
+993,"apartment","Ain Sokhna","3789.48",3,1,"2022-04-08",True
+994,"chalet","Marsa Matrouh","2690.18",3,3,"2022-02-07",True
+995,"chalet","Giza","2915.93",4,3,"2022-10-06",True
+996,"apartment","Sharm al-Sheikh","1947.02",3,1,"2022-10-15",False
+997,"apartment","Giza","981.67",3,3,"2022-12-27",False
+998,"apartment","Ain Sokhna","817.86",2,2,"2022-09-19",True
+999,"apartment","Marsa Matrouh","3940.48",1,2,"2022-01-19",False
+1000,"apartment","Cairo","3734.75",4,2,"2022-06-30",True
